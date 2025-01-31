@@ -2,7 +2,7 @@
 
 A running log of things I'm learning to build strong core software engineering skills while also expanding my knowledge of [adjacent technologies](http://www.effectiveengineer.com/blog/master-adjacent-disciplines) a little bit [everyday](https://jamesclear.com/continuous-improvement). Ispired by [Amitness](https://github.com/amitness).
 
-**Updated**: Once a month | **Current** **Focus**: AI/ML
+**Updated**: Every now and then | **Current** **Focus**: AI/ML
 
 ## Machine Learning and AI Engineering
 
