@@ -1,14 +1,10 @@
-# learning
+# Learning
 
 A running log of things I'm learning to build strong core software engineering skills while also expanding my knowledge of [adjacent technologies](http://www.effectiveengineer.com/blog/master-adjacent-disciplines) a little bit [everyday](https://jamesclear.com/continuous-improvement). Ispired by [Amitness](https://github.com/amitness).
 
 **Updated**: Once a month | **Current** **Focus**: AI/ML
 
-## Core Skills
-
-> Generic skills that are transferrable to any sort of software work I do
-
-### Machine Learning and AI Engineering
+## Machine Learning and AI Engineering
 
 |Resource|Progress|
 |---|---|
