@@ -9,5 +9,5 @@ A running log of things I'm learning to build strong core software engineering s
 |Resource|Progress|
 |---|---|
 |[Google: Intro to Machine Learning](https://developers.google.com/machine-learning/intro-to-ml)|✅|
-|[Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course#course-modules)|🔴|
+|[Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course#course-modules)|✅|
 |[HarvardX: CS50's Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python)|🔴|
